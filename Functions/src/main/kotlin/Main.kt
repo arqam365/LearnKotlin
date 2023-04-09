@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*fun main() {
 //    greet("World", 19)
     val hasInternetConnection = false
@@ -26,10 +25,10 @@ fun main() {
     println(max)
 }
 
-fun getMax(a: Int , b: Int): Int {
-    val max = if (a > b) a else b
-    return max
-=======
+//fun getMax(a: Int , b: Int): Int {
+//    val max = if (a > b) a else b
+//    return max
+//}
 /*fun main() {
 //    greet("World", 19)
     val hasInternetConnection = false
@@ -52,13 +51,7 @@ fun showMessage(){
     println("There is no internet connection.")
 }*/
 
-fun main() {
-    val max = getMax(2,5)
-    println(max)
-}
-
 fun getMax(a: Int , b: Int): Int {
     val max = if (a > b) a else b
     return max
->>>>>>> 331f795802ec90069a7edd331b3305484b3949b7
 }

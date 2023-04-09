@@ -1,5 +1,4 @@
 fun main() {
-
 //    For Loops
 
 /*    for (i in 1..10) {
@@ -21,5 +20,25 @@ fun main() {
 
 //    While Loops
 
+//    var num = 1
+//    while (num <= 10) {
+//        println(num)
+//        num++
+//    }
+
+//    var num = 0
+//
+//    while (num < 5) {
+//        num++
+//        println(num)
+//
+//        var i = 0
+//        while (i < 5) {
+//            i++
+//            println("***$i")
+//        }
+//    }
+
+    
 
 }
