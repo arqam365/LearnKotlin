@@ -60,6 +60,25 @@
 
 // Write a program that takes an integer input from the user and prints "Leap Year" if the input is a leap year, and "Not a Leap Year" if the input is not a leap year. (A leap year is a year that is divisible by 4, but not divisible by 100 unless it is also divisible by 400).
 
+/*fun main() {
+    print("Enter the year: ")
+    val year = readln().toIntOrNull()
+    if (year != null){
+        if (year % 4 == 0 && (year % 100 != 0 || year % 400 == 0)) {
+            println("Leap Year")
+        }
+        else {
+            println("Not a Leap Year")
+        }
+    }
+}*/
+
+// Write a program that takes an integer input from the user and prints "Prime" if the input is a prime number, and "Not Prime" if the input is not a prime number. (A prime number is a number that is only divisible by 1 and itself).
+
 fun main() {
-    
+    print("Enter the number: ")
+    val value = readln().toIntOrNull()
+    if (value != null){
+        
+    }
 }
